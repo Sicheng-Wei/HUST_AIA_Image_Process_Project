@@ -1,4 +1,4 @@
-# HUST_AIA_Image_Process_Project
+# Workpiece_Classify
 
 本项目为华中科技大学人工智能与自动化学院自动化方向学生图像处理与模式识别课程设计，仅供华中科技大学学生内部参考。
 
